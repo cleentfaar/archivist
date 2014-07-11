@@ -19,5 +19,10 @@
       "": "src/"
     }
   },
-  "target-dir": "src/CL/Archivist"
+  "target-dir": "src/CL/Archivist",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
 }
